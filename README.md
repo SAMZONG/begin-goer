@@ -12,3 +12,10 @@
 # Day 01
 
 - 确认了 b 站的视频和网站资料
+
+- https://book.itsfun.top/gopl-zh/
+- https://go-kratos.dev/docs/
+
+https://go.dev/doc/effective_go
+https://github.com/golang/go/wiki/CodeReviewComments
+https://github.com/uber-go/guide
